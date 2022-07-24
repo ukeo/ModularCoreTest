@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SkyBlockTestModule">
+    <output-path>$PROJECT_DIR$/../../</output-path>
+    <root id="archive" name="SkyBlockTestModule.jar">
+      <element id="module-output" name="SkyBlockTestModule" />
+    </root>
+  </artifact>
+</component>

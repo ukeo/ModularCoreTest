@@ -1,0 +1,5 @@
+name: TestModule
+version: 1.0
+author: Espen
+main: eu.imposdev.skyblocktestmodule.TestModule
+dependencies: []
